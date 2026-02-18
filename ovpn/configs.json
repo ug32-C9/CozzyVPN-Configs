@@ -1,0 +1,12 @@
+{
+  "configs": [
+    {
+      "name": "jp-fast-udp.ovpn",
+      "url": "https://raw.githubusercontent.com/ug32-C9/CozzyVPN-Configs/main/ovpn/jp-fast-udp.ovpn"
+    },
+    {
+      "name": "jp-gaming-udp.ovpn",
+      "url": "https://raw.githubusercontent.com/ug32-C9/CozzyVPN-Configs/main/ovpn/jp-gaming-udp.ovpn"
+    }
+  ]
+}
